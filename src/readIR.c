@@ -1,8 +1,8 @@
 /*
- * File:   main.c
+ * File:   readIR.c
  * Author: BEAN
  *
- * Created on August 2, 2017, 3:57 AM
+ * Created on April 16, 2018, 21:00
  */
 
  /*
